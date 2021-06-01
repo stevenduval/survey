@@ -1,34 +1,32 @@
 {
   survey: [
     {
-    data: {
-        questions_answers: [
-            {
-                question1 : 'HTML',
+            questions_answers: [
+              {
+                question1 : "HTML",
                 answers1 : []
               },
               {
-                question2 : 'HTML2',
+                question2 : "HTML2",
                 answers2 : []
               },
               {
-                question3 : 'HTML3',
+                question3 : "HTML3",
                 answers3 : []
               },
               {
-                question4 : 'HTML4',
+                question4 : "HTML4",
                 answers4 : []
               },
               {
-                question5 : 'HTML5',
+                question5 : "HTML5",
                 answers5 : []
               },
               {
-                question6 : 'HTML6',
+                question6 : "HTML6",
                 answers6 : []
               }
             ]
-        }
     }
   ]
 }
