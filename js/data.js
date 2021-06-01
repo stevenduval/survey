@@ -3,28 +3,28 @@
       {
          "questions_answers": [
             {
-               "question1": "HTML",
-               "answers1": []
+               "question": "HTML1",
+               "answer": []
             },
             {
-               "question2": "HTML2",
-               "answers2": []
+               "question": "HTML2",
+               "answer": []
             },
             {
-               "question3": "HTML3",
-               "answers3": []
+               "question": "HTML3",
+               "answer": []
             },
             {
-               "question4": "HTML4",
-               "answers4": []
+               "question": "HTML4",
+               "answer": []
             },
             {
-               "question5": "HTML5",
-               "answers5": []
+               "question": "HTML5",
+               "answer": []
             },
             {
-               "question6": "HTML6",
-               "answers6": []
+               "question": "HTML6",
+               "answer": []
             }
          ]
       }
