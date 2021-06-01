@@ -1,8 +1,9 @@
 {
   survey: [
     {
-            questions_answers: {[
-              {
+    data: {
+        questions_answers: [
+            {
                 question1 : 'HTML',
                 answers1 : []
               },
@@ -27,7 +28,7 @@
                 answers6 : []
               }
             ]
-    }
+        }
     }
   ]
 }
